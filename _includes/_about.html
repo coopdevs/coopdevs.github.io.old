@@ -1,0 +1,57 @@
+﻿<h2>{{ include.locale.what.title }}</h2>
+<div>{{ include.locale.what.body }}</div>
+
+<h2>{{ include.locale.motivations.title }}</h2>
+<div>{{ include.locale.motivations.body }}</div>
+
+<h2>{{ include.locale.goals.title }}</h2>
+<div>{{ include.locale.goals.body }}</div>
+
+<h2>{{ include.locale.specific_goals.title }}</h2>
+<div>
+  <ul>
+  {% for goal in include.locale.specific_goals.specific_goals %}
+    <li>
+      {{ goal }}
+    </li>
+  {% endfor %}
+  </ul>
+</div>
+
+<h2>{{ include.locale.projects.title }}</h2>
+<div>
+  <p>
+    {{ include.locale.projects.body }}
+  </p>
+</div>
+<div>
+  <p>
+  {{ include.locale.projects.timeoverflow.description }}
+  </p>
+  <ul class="social-media-list">
+    <li>
+      <a href={{ include.locale.projects.timeoverflow.link.href }}>{{ include.locale.projects.timeoverflow.link.text }}</a>
+    </li>
+  {% for social_media in include.locale.projects.timeoverflow.social_media %}
+    <li>
+      {% include {{ social_media.icon }} username=social_media.username %}
+    </li>
+  {% endfor %}
+  </ul>
+</div>
+<div>
+  <p>
+  {{ include.locale.projects.katuma.description }}
+  </p>
+  <ul class="social-media-list">
+    <li>
+      <a href={{ include.locale.projects.katuma.link.href }}>{{ include.locale.projects.katuma.link.text }}</a>
+    </li>
+  {% for social_media in include.locale.projects.katuma.social_media %}
+    <li>
+      {% include {{ social_media.icon }} username=social_media.username %}
+    </li>
+  {% endfor %}
+  </ul>
+</div>
+<a href="#top">^Top</a>

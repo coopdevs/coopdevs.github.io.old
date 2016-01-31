@@ -1,0 +1,81 @@
+﻿what:
+  title: Què és Coopdevs
+  body:
+    "<p>
+    Coopdevs és una associació de persones que de forma voluntària i <strong>sense ànim de lucre</strong> col·laboren per crear solucions tecnològiques per a <strong>fomentar i promoure l'economia social</strong>.
+    </p>
+    <p>
+    Coopdevs es constitueix oficialment en febrer 2016 però és el resultat d'un recorregut que va començar al 2012 i que ha recollit l'esforç de moltes persones que han dedicat les seves energies (tant tècniques com creatives) als diferents projectes que s'han anat posant en marxa.
+    </p>
+    <p>
+    Creiem fermament en el <strong>programari lliure i en el codi obert</strong>. Raó principal per elaborar els seus projectes sempre utilitzant programari de codi obert, intentant al mateix temps contribuir a l'ecosistema codi obert.
+    </p>
+    <p>
+    Els projectes de Coopdevs estan orientats a facilitar i promoure àrees de l'<strong>economia social</strong> que necessiten eines tecnològiques per solucionar les seves necessitats específiques, ja siguin logístiques, de gestió i / o administratives.
+    </p>"
+motivations:
+  title: Motivacions
+  body:
+    "<p>
+    Les motivacions personals que ens han empès a voler oferir aquest tipus de solucions troba les seves arrels en l'<strong>experiència directa de membres</strong> actius en el sector de l'economia social.
+    </p>
+    <p>
+    A partir de les experiències madurades en aquests contextos hem detectat uns problemes recurrents: alguns sectors de l'economia social, especialment el sector associatiu, són per la seva naturalesa molt fragmentats i compostos de moltes petites entitats que neixen de forma espontània i que difícilment aconsegueixen compartir experiències i recolzar-se mútuament. Sobretot en relació a qüestions organitzatives i de gestió.
+    </p>
+    <p>
+    Aquesta situació comporta que cada entitat, per solucionar les seves necessitats quotidianes de gestió i administració, elabori autònomament solucions adaptades als seus casos concrets i amb els recursos que cada entitat hi pot dedicar. Generalment començant cada vegada des de zero.
+    </p>
+    <p>
+    Moltes vegades aquestes solucions fragmentàries requereixen un gran esforç i la dedicació i sacrifici personal de persones que voluntàriament s'ofereixen a realitzar tasques que resulten extenuants i difícils tant en la fase de desenvolupament com en la de manteniment.
+    </p>
+    <p>
+    Per aquesta raó moltes d'aquestes persones, cansades de portar una càrrega de responsabilitat i de treball tan pesada, abandonen els projectes i inevitablement es porten amb ells el coneixement necessari per al funcionament de les eines i de les mateixes entitats.
+    </p>
+    <p>
+    D'aquest tipus d'experiències emergeix llavors la voluntat de detectar aquests fenòmens i de dedicar-se a la creació de solucions tecnològiques que facilitin les tasques de gestió d'entitats de l'ecosistema de l'economia social.
+    </p>"
+goals:
+  title: Objectius
+  body:
+    "<p>
+    L'objectiu principal d'Coopdevs consisteix a <strong>contribuir activament al foment de l'economia social a través de l'ús de les tecnologies de la informació i de la comunicació</strong>.
+    </p>
+    <p>
+    Per aconseguir aquest objectiu Coopdevs es proposa els objectius específics que es detallen a continuació.
+    </p>"
+specific_goals:
+  title: Objectius específics
+  specific_goals:
+    - "Permetre a l'ecosistema de l'economia social enfocar-se en els seus propis objectius i dedicar menys recursos a la creació de les seves pròpies eines de treball."
+    - "Facilitar la creació de noves entitats eliminant un element potencialment bloquejant i permetent a les noves entitats heretar tota l'experiència i les bones pràctiques de les altres entitats que contribueixen a millorar les eines de gestió."
+    - "Facilitar la comunicació entre desenvolupadors i usuaris dels diferents projectes."
+    - "Amplificar la utilitat de cada contribució de les diferents entitats perquè puguin afectar positivament en tota la comunitat."
+    - "Oferir la possibilitat de compartir entre tots les despeses de realització i manteniment de les diferents eines."
+projects:
+  title: Projectes
+  body:
+    "Els sectors sobre els quals Coopdevs està concentrant la seva feina en l'actualitat són els dels <strong>bancs del temps</strong> i els <strong>grups de consum</strong>."
+  timeoverflow:
+    description:
+      "<strong><a href='https://www.timeoverflow.org/pages/about' target='_blank'>TimeOverflow</a></strong> és el programari que desenvolupem i que oferim com a servei gratuït per a qualsevol <strong>Banc de Temps</strong> que ens ho demani. Facilita el treball administratiu als equips de gestió dels Bancs de Temps i d'altra banda facilita la interacció i conseqüent intercanvi de serveis entre els membres d'un Banc de Temps. Millorar l'eina TimeOverflow té un impacte directe en la la interacció social entre veïns i això ens motiva a seguir dedicant-li tots els nostres esforços."
+    link:
+      href: "https://www.timeoverflow.org"
+      text: "https://www.timeoverflow.org"
+    social_media:
+      - icon: "icon-twitter.html"
+        username: "timeoverflow"
+      - icon: "icon-github.html"
+        username: "coopdevs/timeoverflow"
+  katuma:
+    description:
+      "En el cas dels <strong>grups de consum</strong>, Coopdevs està treballant en <strong><a href='http://katuma.org' target='_blank'>Katuma</a></strong>, una eina que facilita la creació i la gestió dels grups de consum. Una alternativa econòmica sostenible en comparació a la gran distribució i l'ús d'intermediaris comercials en general."
+    link:
+      href: "http://katuma.org"
+      text: "http://katuma.org"
+    social_media:
+      - icon: "icon-twitter.html"
+        username: "katuma_org"
+      - icon: "icon-github.html"
+        username: "coopdevs/katuma"
+      - icon: "icon-github.html"
+        username: "coopdevs/katuma-web"
