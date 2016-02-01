@@ -1,0 +1,10 @@
+<ul class="project-links">
+{% for link in include.project.links %}
+<li class="project-link {{ link.rel }}">
+  <a rel="{{ link.rel }}" href="{{ link.href }}">
+    <svg xmlns:xlink="http://www.w3.org/1999/xlink" class="icon"><use xlink:href="#icon-{{ link.rel }}" x="0" y="0"/></svg>
+    {% if link.name %}{{ link.name }}{% else %}{{ link.href }}{% endif %}
+  </a>
+</li>
+{% endfor %}
+</ul>
