@@ -18,3 +18,7 @@ github_username:  coopdevs
 
 # Build settings
 markdown: kramdown
+
+# this will be overwritten by github
+github:
+  url: "http://0.0.0.0:4000"
