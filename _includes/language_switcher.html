@@ -1,0 +1,14 @@
+{% if page.lang %}
+<div class="language-switcher">
+{% capture page_url %}{{ page.url | slice:3 }}{% endcapture %}
+{% for p in site.pages %}
+  {% if p.name == page.name %}
+    {% if p.url != page.url %}
+      <a rel="alternate" hreflang="{{ p.lang }}" href="{{ p.url | remove:'index.html' }}">
+        {{ site.data.i18n[p.lang]["Read me in"] }} <strong>{{ p.lang }}</strong>
+      </a>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+</div>
+{% endif %}
