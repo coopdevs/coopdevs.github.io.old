@@ -89,12 +89,12 @@ es detallen a continuació.
   manteniment de les diferents eines.
 
 
-## Proyectos
+## Projectes
 
 Els sectors sobre els quals Coopdevs està concentrant la seva feina en 
 l'actualitat són els dels **bancs del temps** i els **grups de consum**.
 
-[**TimeOverflow**][1] és el programari que desenvolupem i que oferim com a 
+[**TimeOverflow**][1]{:target="_blank"} és el programari que desenvolupem i que oferim com a 
 servei gratuït per a qualsevol **Banc de Temps** que ens ho demani. Facilita el 
 treball administratiu als equips de gestió dels Bancs de Temps i d'altra banda 
 facilita la interacció i conseqüent intercanvi de serveis entre els membres 
@@ -106,7 +106,7 @@ nostres esforços.
 
 
 En el cas dels **grups de consum**, Coopdevs està treballant en 
-[**Katuma**][2], una eina que facilita la creació i la gestió dels grups de 
+[**Katuma**][2]{:target="_blank"}, una eina que facilita la creació i la gestió dels grups de 
 consum. Una alternativa econòmica sostenible en comparació a la gran 
 distribució i l'ús d'intermediaris comercials en general.
 

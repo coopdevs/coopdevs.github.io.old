@@ -94,7 +94,7 @@ Los sectores sobre los cuales Coopdevs está concentrando su trabajo en la
 actualidad son los de los **bancos del tiempo** y los **grupos de consumo**.
 
 
-[**TimeOverflow**][1] es el software que desarrollamos y que ofrecemos como 
+[**TimeOverflow**][1]{:target="_blank"} es el software que desarrollamos y que ofrecemos como 
 servicio gratuito para cualquier <strong>Banco de Tiempo</strong> que nos lo 
 solicite. Facilita el trabajo administrativo a los equipos de gestión de los 
 Bancos de Tiempo y por otro lado facilita la interacción y consecuente 
@@ -106,7 +106,7 @@ entre vecinos y eso nos motiva a seguir dedicándole todos nuestros esfuerzos.
 
 
 En el caso de los **grupos de consumo**, Coopdevs está trabajando en 
-[**Katuma**][2], una herramienta que facilite la creación y la gestión 
+[**Katuma**][2]{:target="_blank"}, una herramienta que facilite la creación y la gestión 
 de los grupos de consumo. Una alternativa económica sostenible en comparación a 
 la grande distribución y al uso de intermediarios comerciales en general.
 
