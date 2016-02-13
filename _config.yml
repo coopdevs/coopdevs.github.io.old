@@ -9,8 +9,8 @@
 title: Coopdevs
 email: info@coopdevs.org
 description: > # this means to ignore newlines until "baseurl:"
-  TICs para el desarrollo de la economia social
-  ITC for the development of the social economy
+  Tecnologia para la economia social
+  Technology for the social economy
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://coopdevs.org" # the base hostname & protocol for your site
 twitter_username: coopdevs
