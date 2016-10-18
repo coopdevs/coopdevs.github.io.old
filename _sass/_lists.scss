@@ -1,0 +1,17 @@
+
+li.project-link {
+  list-style-type: none;
+}
+
+.language-switcher {
+  position: fixed;
+  left: 4px;
+  top: 120px;
+  background: $grey-color-light;
+  border-radius: 4px;
+  box-shadow: -2px 2px 4px $grey-color;
+  padding: 6px;
+  a[hreflang] {
+    display: block;
+  }
+}
